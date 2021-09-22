@@ -1,5 +1,5 @@
 # Inteligência Artificial 2020.2
-Projeto de Inteligência Artficial - Ciência da Computação - UVA 2020.2
+Projeto de Inteligência Artificial - Ciência da Computação - UVA 2020.2
 
 Esse repositório é formado pelos problemas desenvolvidos por mim durante a disciplina de Inteligência Artficial no cursod e Ciência da Computação da UVA.
 
